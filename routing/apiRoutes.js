@@ -39,7 +39,7 @@ module.exports = function(app) {
 
     // after finding match, add user to friend array
     friends.push(user);
-
+    console.log(friends[bestFriendIndex])
     // send back to browser the best friend match
     res.json(friends[bestFriendIndex]);
   });
