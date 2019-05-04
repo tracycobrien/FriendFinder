@@ -7,10 +7,6 @@ In this activity, I'll build a compatibility-based "FriendFinder" application --
 
 I will use Express to handle routing. I deployed the app to Heroku so other users can fill it out.
 
-
-### Before You Begin
-
-* 
 ### Below are the links-
 
 * I have submited both the deployed Heroku link to my homework AND the link to my Github Repository!
